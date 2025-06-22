@@ -18,4 +18,4 @@
 
 ---
 
-> *“The best way to learn is to build. The second best is to break things and fix them.”
+> *“The best way to learn is to build. The second best is to break things and fix them.”*
