@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi, I'm Arslan!
 
-<!--
-**sollex-dev/sollex-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I'm Into
 
-Here are some ideas to get you started:
+- 💻 Python, Dart, a bit of JavaScript
+- 🛠 Building bots, parsers, and websites
+- 📱 Mobile apps with Flutter
+- ⚙️ Engineering stuff & fixing things just for fun
+- 📚 Math, Physics, Economics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arslan-sultanov&show_icons=true&theme=tokyonight)
+
+---
+
+## 📬 Contact Me
+
+- Telegram: [@Here](https://t.me/NoUsernameYeet)
+- Email: arslansultanov01@gmail.com
+
+---
+
+> *“The best way to learn is to build. The second best is to break things and fix them.”
