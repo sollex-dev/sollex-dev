@@ -8,11 +8,6 @@
 - ⚙️ Engineering stuff & fixing things just for fun
 - 📚 Math, Physics, Economics
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arslan-sultanov&show_icons=true&theme=tokyonight)
 
 ---
 
